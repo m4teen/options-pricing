@@ -14,6 +14,7 @@ This repository contains notes and supplementary materials for an advanced under
 
 ## Directory Structure
 
+```bash
 .
 option-pricing/
 ├── unit-1/         # Lecture slides and/or notes for Unit 1
