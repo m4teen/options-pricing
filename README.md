@@ -7,7 +7,7 @@ This repository contains notes and supplementary materials for an advanced under
 - Fundamentals of assets and derivatives  
 - Pricing in discrete and continuous time (binomial trees, Brownian motion)  
 - Black-Scholes-Merton model  
-- Hedging strategies and Greeks  
+- Hedging strategies  
 - Stochastic volatility models  
 - PDE and martingale approaches to pricing  
 - Interest rate models and fixed income derivatives
@@ -15,13 +15,10 @@ This repository contains notes and supplementary materials for an advanced under
 ## Directory Structure
 
 .
-├── notes/              # LaTeX notes covering core course material
-│   ├── unit-i.tex
-│   ├── ...
-│   └── preamble.tex
-├── unit-i/             # Official lecture slides for Unit I
-│   ├── lecture1.pdf
-│   ├── lecture2.pdf
-│   └── ...
-├── README.md
-└── ...
+option-pricing/
+├── unit-1/         # Lecture slides and/or notes for Unit 1
+├── unit-2/         # ...
+├── ...             
+├── unit-11/       
+├── .gitignore
+└── README.md
