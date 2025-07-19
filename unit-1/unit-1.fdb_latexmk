@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1752944488.44039 "/home/mateen/GitHub/options-pricing/resources/notes/options-pricing.tex" "options-pricing.pdf" "options-pricing" 1752944489.14592 0
-  "/home/mateen/GitHub/options-pricing/resources/notes/options-pricing.tex" 1752944488.26189 1388 e7fd15d2b842fd6cf8aa6f216b456ea9 ""
+["pdflatex"] 1752947700.17923 "/home/mateen/GitHub/options-pricing/notes/unit-1.tex" "unit-1.pdf" "unit-1" 1752947701.00935 0
+  "/home/mateen/GitHub/options-pricing/notes/unit-1.tex" 1752944488.26189 1388 e7fd15d2b842fd6cf8aa6f216b456ea9 ""
   "/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc" 1742685315 2375 baa924870cfb487815765f9094cf3728 ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1742685315 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf-dist/fonts/tfm/jknappen/ec/ecrm0900.tfm" 1742685315 3584 d3d8ac8b25ca19c0a40b86a5db1e8ccc ""
@@ -162,14 +162,14 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1742685315 42087 b0f9697c952c8f5a8eede4134282cb0d ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1744872139 5462436 27cd050b37751b994114e730b3e1e2b9 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1744872137 3459354 4741dd41c8a65ee407fe0f83c4dfea00 ""
-  "options-pricing.aux" 1752944489.07906 272 974c3b4cfe81cbaa7311cab132527c75 "pdflatex"
-  "options-pricing.out" 1752944489.08006 108 b382de545ad31596853dcbd72652349b "pdflatex"
-  "options-pricing.tex" 1752944488.26189 1388 e7fd15d2b842fd6cf8aa6f216b456ea9 ""
-  "options-pricing.toc" 1752944489.08006 69 9b32965c228eed1acf88460a57f5334c "pdflatex"
+  "unit-1.aux" 1752947700.91008 272 974c3b4cfe81cbaa7311cab132527c75 "pdflatex"
+  "unit-1.out" 1752947700.91108 108 b382de545ad31596853dcbd72652349b "pdflatex"
+  "unit-1.tex" 1752944488.26189 1388 e7fd15d2b842fd6cf8aa6f216b456ea9 ""
+  "unit-1.toc" 1752947700.91108 69 9b32965c228eed1acf88460a57f5334c "pdflatex"
   (generated)
-  "options-pricing.aux"
-  "options-pricing.log"
-  "options-pricing.out"
-  "options-pricing.pdf"
-  "options-pricing.toc"
+  "unit-1.aux"
+  "unit-1.log"
+  "unit-1.out"
+  "unit-1.pdf"
+  "unit-1.toc"
   (rewritten before read)

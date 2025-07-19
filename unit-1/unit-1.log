@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2025.4.17)  19 JUL 2025 18:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2025.4.17)  19 JUL 2025 18:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/mateen/GitHub/options-pricing/resources/notes/options-pricing.tex
-(/home/mateen/GitHub/options-pricing/resources/notes/options-pricing.tex
+**/home/mateen/GitHub/options-pricing/notes/unit-1.tex
+(/home/mateen/GitHub/options-pricing/notes/unit-1.tex
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
 (/usr/share/texmf-dist/tex/latex/extsizes/extarticle.cls
@@ -685,8 +685,8 @@ File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count340
 \l__pdf_internal_box=\box73
-) (./options-pricing.aux)
-\openout1 = `options-pricing.aux'.
+) (./unit-1.aux)
+\openout1 = `unit-1.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
 LaTeX Font Info:    ... okay on input line 39.
@@ -785,17 +785,17 @@ Package caption Info: hyperref package is loaded.
 Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
 Package hyperref Info: Link coloring ON on input line 39.
- (./options-pricing.out) (./options-pricing.out)
+ (./unit-1.out) (./unit-1.out)
 \@outlinefile=\write4
-\openout4 = `options-pricing.out'.
+\openout4 = `unit-1.out'.
 
 
 
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}] (./options-pricing.toc)
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}] (./unit-1.toc)
 \tf@toc=\write5
-\openout5 = `options-pricing.toc'.
+\openout5 = `unit-1.toc'.
 
 
 
@@ -806,24 +806,24 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has b
 l.44 \newpage
               [1]
 
-[2] (./options-pricing.aux)
+[2] (./unit-1.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
-Package rerunfilecheck Info: File `options-pricing.out' has not changed.
+Package rerunfilecheck Info: File `unit-1.out' has not changed.
 (rerunfilecheck)             Checksum: B382DE545AD31596853DCBD72652349B;108.
  ) 
 Here is how much of TeX's memory you used:
  28498 strings out of 473190
- 540406 string characters out of 5722593
- 941971 words of memory out of 5000000
+ 540160 string characters out of 5722593
+ 941944 words of memory out of 5000000
  51314 multiletter control sequences out of 15000+600000
  572601 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,11n,91p,1064b,467s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 84i,11n,91p,1045b,467s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmbx9.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmr9.pfb>
-Output written on options-pricing.pdf (3 pages, 77373 bytes).
+Output written on unit-1.pdf (3 pages, 77373 bytes).
 PDF statistics:
  46 PDF objects out of 1000 (max. 8388607)
  34 compressed objects within 1 object stream
